@@ -1,6 +1,6 @@
 backend:
-  name: netlify-cms
-  branch: main
+  name: git-gateway
+  branch: main   # Or your chosen branch
 
 media_folder: "assets/img"
 public_folder: "/assets/img"
